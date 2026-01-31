@@ -5,4 +5,5 @@ Requirements:
 Python 
 RabbitMq
 
-# python3 amazon-doc.py download
+## python3 amazon-doc.py index
+## python3 amazon-doc.py download
